@@ -1,0 +1,29 @@
+_repo: Solid-Solution_51610
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gray
+    gutenberg_agent_id: '46482'
+    url: http://www.gutenberg.org/2009/agents/46482
+creator:
+  author:
+    agent_name: Stamers, James
+    gutenberg_agent_id: '46428'
+    url: http://www.gutenberg.org/2009/agents/46428
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+title: Solid Solution
+url: http://www.gutenberg.org/ebooks/51610
