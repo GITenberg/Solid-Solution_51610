@@ -1,16 +1,21 @@
 _repo: Solid-Solution_51610
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Gray
     gutenberg_agent_id: '46482'
     url: http://www.gutenberg.org/2009/agents/46482
+covers:
+- cover_type: archival
+  image_path: 51610-h/images/cover.jpg
 creator:
   author:
     agent_name: Stamers, James
     gutenberg_agent_id: '46428'
     url: http://www.gutenberg.org/2009/agents/46428
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51610#Solid-Solution
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-31'
 gutenberg_type: Text
